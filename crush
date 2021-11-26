@@ -1,0 +1,19 @@
+const CONFIG= {
+introTitle: 'Nguyễn Ngọc Đoan Trinh',
+introDesc: 'Trái đất vốn lạ thường
+Mà sao Em cứ đi nhầm đường
+Lạc vào tim Anh lẻ loi
+Đằng sau chữ Yêu đây là Thương',
+btnIntro: 'hihi',
+title: 'Phải chăng Em đã yêu ngay từ cái nhìn đầu tiên',
+desc: 'Phải chăng Em đã say ngay từ lúc thấy nụ cười ấy',
+btnYes: 'Vẫn cứ là thích Anh <3',
+btnNo: 'Không, Anh trai à :3',
+question: 'Trên thế giới hơn 7 tỉ người mà sao Em lại yêu Anh ?',
+btnReply: 'Gửi cho Anh <3',
+reply: Yêu thì yêu mà không yêu thì yêu <3',
+mess: 'Anh biết mà. Yêu Em nhiều <3',
+messDesc: 'Tối nay 19h Anh qua đón nha công chúa <3',
+btnAccept: 'Okii lun <3',
+messLink: 'http://www.facebook.com/profile.php?id=100069739119817',
+}
